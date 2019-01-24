@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>about</title>
+	<title>about me</title>
 </head>
 <body>
 this is my about
